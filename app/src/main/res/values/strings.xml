@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">konoha</string>
+    <string name="Akagahara">Akagahara</string>
+    <string name="GreatNarutoBridge">Great Naruto Bridge</string>
+    <string name="Konohagakure">Konohagakure</string>
+    <string name="KonohagakureDescription">
+        Konohagakure is the hidden village of the Land of Fire.
+        As the village of one of the Five Great Shinobi Countries,
+        Konohagakure has a Kage as its leader known as the Hokage,
+        of which there have been seven in its history.
+        Konoha resides deep within a forest at the base of a mountain
+        known as the Hokage Rock, which has the faces of all those
+        who have taken the office of Hokage engraved on it.</string>
+    <string name="ClanList">List of known Clans</string>
+</resources>

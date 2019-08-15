@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#002984</color>
+    <color name="colorPrimaryLight">#757de8</color>
+    <color name="colorAccent">#757de8</color>
+    <color name="colorSecondary">#f7b714</color>
+    <color name="colorSecondaryLight">#ffe953</color>
+    <color name="colorSecondaryDark">#bf8800</color>
+    <color name="AkagahareColor">#9de081</color>
+    <color name="NarutoColor">#f49a24</color>
+    <color name="KonohagakureColor">#c3b38c</color>
+    <color name="White">#ffffff</color>
+    <color name="Black">#000000</color>
+</resources>
